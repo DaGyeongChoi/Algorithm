@@ -1,4 +1,4 @@
-ca=["c=","c-","dz=","d-","lj","nj","s=","z="]
+'''ca=["c=","c-","dz=","d-","lj","nj","s=","z="]
 word=input()
 sum=0
 for i in range(len(word)):
@@ -17,7 +17,7 @@ for i in range(len(word)):
     else:
         sum+=1
 print(sum)
-
+'''
 
 ca=["c=","c-","dz=","d-","lj","nj","s=","z="]
 word=input()
